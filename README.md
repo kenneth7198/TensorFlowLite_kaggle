@@ -1,0 +1,2 @@
+# TensorFlowLite_kaggle
+運用kaggle製作dataset並用用TensorFlow lite 進行訓練
